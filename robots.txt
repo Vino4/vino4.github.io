@@ -1,3 +1,6 @@
 User-agent: *
 Disallow: /asteroids_reloaded/
 Disallow: /resume.pdf
+Disallow: /*.gif$
+Disallow: /*.png$
+Disallow: /*.pdf$
