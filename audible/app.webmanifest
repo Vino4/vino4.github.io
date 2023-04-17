@@ -1,6 +1,6 @@
 {
-	"name": "My audible library",
-	"short_name": "Audible library",
+	"name": "Matt's audible library",
+	"short_name": "Matt's audiobooks",
 	"icons": [
         {
 			"src": "favicons/android-chrome-192x192.png",
